@@ -6,9 +6,11 @@ permalink: home
 # ─────────────────────
 title: Opdracht NMD-III
 ---
-
+<br>
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+ - Timothy D'HOE, 2CMO-GD
+ - Mats STUCKENS, 2CMO-GD
+
+Mss, foto'tje bijzetten? :p
