@@ -6,30 +6,35 @@
   "app/main",
   "production/main";
 
+  @import url('https://fonts.googleapis.com/css?family=Montserrat:500,700,800');
+  @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono');
+
   body{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
     font-size: 100%;
+  }
+
+  h1, h2, h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    padding-top: 15px;
   }
 
   h1{
     font-size: 3em;
-    padding-top: 20px;
   }
 
   h2{
     font-size: 1.6em;
-    padding-top: 20px;
   }
 
   h3{
     font-size: 1.2 em;
-    padding-top: 20px;
   }
 
   h4{
     font-size: 1em;
     font-weight: bold;
-    padding-top: 20px;
   }
 
   p{
@@ -42,4 +47,21 @@
   .usp{
     color: red;
     font-style: italic;
+  }
+  .mono{
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  img {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  #screendesign {
+    width: 70%;
+  }
+
+  #kleurcode {
+    width: 20px;
+    margin-top: -10px;
   }

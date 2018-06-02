@@ -7,19 +7,21 @@ published: true
 title: Technische Analyse
 ---
 <br>
-Wij kiezen voor dit project voor de Apple producten: iWatch en Iphone. Deze producten zijn wijdverspreid en hebben door ApplePay een extra troef die we kunnen integreren.
+Wij kiezen voor dit project voor de Apple producten: iWatch en Iphone. Deze producten zijn wijdverspreid en hebben door ApplePay een extra troef die we kunnen integreren.  
+Verder zijn Apple producten zeer betrouwbaar en dankbaar om een app voor te ontwikkelen.
 
-
-## [Smartwatch: iWatch](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/ "iWatch OS Design Sheets")
+## [Smartwatch: iWatch](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/ "iWatch OS Design Sheets"){:target="_blank"}
 <br>
 ### Kenmerken
 ---------
 
-| -----------------------------|---------------:|
-| **Lightweight Interactions** | **Glanceable** |
-| **Holistic Design**          | **Actionable** |
-| **Personal Communication**   | **Responsive** |
-<br>
+
+- **Lightweight Interactions**
+- **Hollistic Design**
+- **Personal Communication**
+- **Glanceable**
+- **Actionable**
+- **Responsiveness**
 
 ### Technische mogelijkheden
 ---------
@@ -132,45 +134,51 @@ Hierdoor wordt het mogelijk om de ervaring voor de gebruikers te verijken.
 
 ### Ontwerprichtlijnen
 ---------
-De Apple Watch is in alle uitvoeringen beschikbaar in twee verschillende maten: 38mm of 42mm.
-Deze groottes werden officieel door Apple bepaalt aan de lengte van het apparaat. Bij benadering heeft de kleinere Apple Watch een beeldscherm van 38mm bij 32mm breed. De grote Apple Watch heeft een beeldscherm van 42mm lang en 36mm breed.
-!!!AFBEELDING VAN SCHERMENTOEVOEGEN!!!
-Beide formaten hebben een Retina-beeldscherm. Dit wil zeggen dat, op een normale kijkafstand, de gebruiker geen pixels kan waarnemen.
-De 38mm versie heeft een horizontale beeldresolutie van 272px en een verticale beeldresolutie van 340px.
-de 42mm versie heeft een horizontale beeldresolutie van 312px en een verticale beeldresolutie van 390px.
+De Apple Watch is in alle uitvoeringen beschikbaar in twee verschillende maten: 38mm of 42mm.  
+Deze groottes werden officieel door Apple bepaalt aan de lengte van het apparaat. Bij benadering heeft de kleinere Apple Watch een beeldscherm van 38mm bij 32mm breed. De grote Apple Watch heeft een beeldscherm van 42mm lang en 36mm breed.  
+Beide formaten hebben een Retina-beeldscherm. Dit wil zeggen dat, op een normale kijkafstand, de gebruiker geen pixels kan waarnemen.  
+De 38mm versie heeft een horizontale beeldresolutie van 272px en een verticale beeldresolutie van 340px.  
+de 42mm versie heeft een horizontale beeldresolutie van 312px en een verticale beeldresolutie van 390px.  
 
 
-## [Smartphone: iPhone](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/ "iPhone OS Design Sheets")
+### Conlusie Smartwatch
+---------
+Het belangrijkste dat de smartwatch voor ons kan betekenen is de Handoff. Hierdoor kan de gebruiker snel en efficiënt de notificaties en andere info bekijken zonder de smartphone uit zijn broekzak of haar handtas te halen. De gebruiker kan, na het lezen van de notificatie nog beslissen of hij hierop wil ingaan of niet.
+
+De Digital Crown aan het device zullen wij in onze app niet gebruiken. De beweging doorheen de verschillende menu's zullen met swipen (capacitive touch) en drukken (force touch) gebeuren.
+
+Zoals de meeste smartwatch applicaties zullen wij onze notificaties ook werken in functie van een short look en long look. De beweging van de arm van de gebruiker bepaalt of de short of long look wordt weergegeven. De long look geeft de mogelijkheid om op een notificatie te reageren. Deze optie bieden wij natuurlijk ook aan.
+
+SpriteKit en SceneKit geven ons de mogelijkheid om op de smartwatchapp beeld en video te tonen. Hoewel we niet de bedoeling hebben om video af te spelen op de smartwatch, kan het tonen van een afbeelding in ons concept heel goed passen.
+
+Voor mensen die Apple Pay op hun device hebben bevestigd bieden wij die functie aan bij het aankopen van hun goederen of diensten. Heeft de gebruiker geen Apple Pay account, dan wordt hij op de conventionele manier naar een beveiligde betaalsite gestuurd.
+
+## [Smartphone: iPhone](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/ "iPhone OS Design Sheets"){:target="_blank"}
 <br>
 
 ### Kenmerken
 ---------
-<br>
-|               |  |
-| **Clarity**   |  |
-| **Deference** |  |
-| **Depth**     |  |
-<br>
-## Kenmerken
-### Clarity
-### Deference
-### Depth
+
+- **Clarity**
+- **Deference**
+- **Depth**
 
 #### Design Principes
 ---------
 <br>
 Apple wijst ons erop dat bij het ontwerpen van een app voor hun iPhone de volgende principes in achting moeten worden gehouden om impact te maximaliseren:
 
-|                           |                  |
-| **Aesthetic Integrity**   | **Feedback**     |
-| **Consistency**           | **Metaphors**    |
-| **Direct Manipulation**   | **User Control** |
-
+- **Aesthetic Integrity**
+- **Consistency**
+- **Direct Manipulation**
+- **Feedback**
+- **Metaphors**
+- **User Control**
 
 #### Technische mogelijkheden
 ---------
 <br>
-Wij belichten hier de specificaties van de Iphone8 plus.
+Wij belichten hier de specificaties van de **Iphone8 plus**.
 
 #### Operating system
 - iOS 11
@@ -364,13 +372,22 @@ Wij belichten hier de specificaties van de Iphone8 plus.
 Beeldschermdiagonaal 5.7 inch
 grootte schermen
 
-## Beacons
+### Conlusie SmartPhone
+---------
+In de app op de Smartphone zal vooral worden genavigeerd door swipen en drukken.  
+De Iphone beschikt over een draadloze Bluetooth verbinding, NFC-tag reader mode alsook een iBeacon microlocatie.
+Deze zullen wij alledrie integreren in ons project. De NFC-tag worden geïntegreed om de gebruiker een afbeelding, filmpje of tekstbestand te laten downloaden. De door bluetooth verbinding met de Apple Watch kan deze een notificatie uitzenden dat er een bestand te bekijken of te downloaden valt.  
+De iBeacon microlocatie wordt gebruikt om ons concept om het museum uit te breiden naar een forum. Deze bepaalt de locatie van de gebruiker tegenover andere als ze een online gesprek willen aanknopen.
+
+
+## Extra informatie Beacons en NFC
+### Beacons
 ---------
 <br>
 BLE transmitters worden gebruikt om de locatie van de bezoeker in het museum te bepalen. De installatie van BLE transmitters is snel, gemakkelijk en vergt nagenoeg geen onderhoud. Dit is de nieuwste trend om indoor locaties te bepalen.
 
 
-## NFC of Near-field communication
+### NFC of Near-field communication
 ---------
 <br>
 Draadloze communicatie van dichtbij. Simpelgezegd vindt er een actie plaats wanneer een NFC chip bij een toestel met NFC gehouden wordt op korte afstand. Je hoort een piep wat inhoudt dat er een NFC tag gelezen wordt.
@@ -380,4 +397,5 @@ NFC kent twee modi:
 - **Passive mode** (of tag-emulatie) waar de chip zich als een RFID-tag gedraagt.
 - **Active mode** waar de chip zich gedraagt als een reader en peer-to-peermode waarbij het mogelijk is om te communiceren tussen twee toestellen.
 Deze laatste modus is handig om niet enkel data te ontvangen, maar deze ook te versturen.
+
 

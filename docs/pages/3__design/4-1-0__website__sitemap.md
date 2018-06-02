@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
+
+<img src="{{ '/assets/img/SitemapWeb.png' | relative_url }}" title="Sitemap voor de Website">

@@ -7,7 +7,87 @@ published: true
 title: Journey Maps
 ---
 
+## Persona Sheet
+---------
+
+<img src="{{ '/assets/img/persona.png' | relative_url }}" title="Persona Sheet">
+
+## Scenarios
+---------
+
+{:.mono}
+Als ik als potentiële bezoeker van het Musée Hergé online een ticket wil aankopen  
+Stel ik ga met mijn iPhone naar de geïnstalleerde app  
+En ik ga naar "Ticket kopen"  
+Als ik dan het aantal ingeef en dan op Apple Pay druk  
+Dan zou ik de boodschap "X aantal tickets is nu beschikbaar voor uw bezoek aan Musée Hergé".  
+
+{:.mono}
+Als ik als potentiële bezoeker van het Musée Hergé online een ticket wil aankopen  
+Stel ik ga met mijn iPhone naar de geïnstalleerde app  
+En ik ga naar "Ticket kopen"  
+Als ik dan het aantal ingeef en dan op Apple Pay druk  
+Dan zou ik de boodschap "X aantal tickets is nu beschikbaar voor uw bezoek aan Musée Hergé".  
+
+{:.mono}
+Als bezoeker van het Musée Hergé wil ik de geluidsfragment bij vitrine 3 horen.
+Stel ik ga met de Iphone naar de app
+En ik ga naar "Hallen"
+Als ik dan op de knop "Hal 3" druk
+Dan zouden de correcte geluidsfragmenten moeten verschijnen
+
+{:.mono}
+Als ik als bezoeker van het museum een vitrine met NFC-tag nader
+Stel ik ben ik bezit van een iPhone en iWatch
+En mijn iWatch geeft een signaal dat er een geluidsfragment te beluisteren valt
+Als ik dan op de knop 'Beluisteren' druk
+Dan zou het geluidsfragment in mijn koptelefoon of earplugs moeten afspelen
+
+{:.mono}
+Als ik als bezoeker van het museum een vitrine met NFC-tag nader
+Stel ik ben ik bezit van een iPhone en iWatch
+En mijn iWatch geeft een signaal dat er een filmfragment te bekijken is
+Als ik dan op de knop 'Bekijken' druk
+Dan zou mijn iWatch de notificatie geven: 'het filmfragment is te bekijken op uw iPhone'.
+
+{:.mono}
+Als ik als bezoeker van het museum een vitrine met NFC-tag nader
+Stel ik ben ik bezit van een iPhone en iWatch
+En mijn iWatch geeft een signaal dat er een filmfragment te bekijken is
+Als ik dan op de knop 'Opslaan' druk
+Dan zou ik de boodschap 'het fragment is opgeslaan" krijgen.
+
+{:.mono}
+Als geregistreerde gebruiker van de Musée Hergé app wil ik mij aanmelden op de applicatie.
+Stel ik open de app met mijn smartphone
+En ik vul mijn gebruikersnaam in
+En ik vul een verkeerd wachtwoord in
+Als ik op de knop 'Aanmelden' druk
+Dan zou ik de boodschap 'Het wachtwoord dat je ingegeven hebt is verkeerd' krijgen.
+
+{:.mono}
+Als ik als bezoeker van het museum een vitrine met NFC-tag nader
+Stel er is al reeds commentaar achtergelaten door vorige bezoekers aan die vitrine.
+En de iWatch en iPhone geven een notificatie om die commentaren te lezen
+Als ik dan op de knop 'Bekijken' druk
+Dan zou ik naar de app-pagina gaan met achtergelaten commentaren voor deze vitrine.
+
+{:.mono}
+Als ik als bezoeker een commentaar bij een werk wil schrijven
+Stel ik ben verbonden met een NFC-tag
+En ik zit al reeds in de Interactie-pagina van de app
+Als ik dan op de knop 'Laat een reactie achter'
+Dan verschijnt op mijn Iphone het toetsenbord om de reactie achter te laten.
+
+{:.mono}
+Als ik als bezoeker een interessant reactie zie via de app
+Stel ik selecteer diezelfde reactie
+Als ik dan op de knop 'Reageer' druk
+Dan verschijnt op mijn Iphone het toetsenbord om commentaar bij diezelfde reactie achter te laten.
+
+
 ## Journey Map 1 (Timothy D'hoe)
+---------
 
 ### Fase 1: De inkomhal
 
@@ -47,12 +127,14 @@ Dit process zou veel vlotter kunnen verlopen met een goed uitlegd plan zoals een
 Een heerst een beetje verwarring omdat je de iPod en koptelefoon elders moet gaan halen dan bij de balie en je een lift moet nemen.
 
 ### Opmerking ivm de zalen
-Het museum bestaat uit 8 ruime zalen die je meenemen in het leven van Hergé. De meeste zalen zijn qua handelingen, gedachten, pijnpunten en opportuniteiten hetzelfde. Niet alle zalen zullen hier dus besproken worden. We halen er telkens de meest interessante uit.
+_Het museum bestaat uit 8 ruime zalen die je meenemen in het leven van Hergé. De meeste zalen zijn qua handelingen, gedachten, pijnpunten en opportuniteiten hetzelfde. Niet alle zalen zullen hier dus besproken worden. We halen er telkens de meest interessante uit._
 
-### Fase 3: Zaal 1: Het laboratorium
+### Fase 3: derde verdieping
+De vier zalen op deze verdieping verhalen hoe Hergé is opgebracht, hoe hij vormgever werd en — voor vele bezoekers het belangrijkste — hoe hij Kuifje heeft bedacht.
 
 **Acties/taken**
 Hier begint de rondleiding doorheen het museum. Glazen kasten en wanden herbergen oude tekeningen en foto's van Hergé en zijn familie. De Ipod is nodig om extra uitleg te krijgen.
+Daarnaast zijn er bordjes met uitleg bij de werken en foto's voorzien om de mensen zonder iPod ook te informeren.
 
 **Gedachten**
 Je betreedt het museum in een verdonkerde ruimte. De sfeer wordt hier gemaakt door de kamer te bekleden met verlichte kuifje personages. Hier krijgt je pas echt goesting om het museum te bezoeken.
@@ -79,156 +161,66 @@ De bezoeker neemt plaats en bekijkt de kortfilm.
 Het leven van Hergé in beeld gebracht. Een extra troef naast de vele foto's en prenten die het museum biedt.
 
 **Opportuniteiten**
-
+De zaal van de cinema kan een rustpunt worden voor de bezoekers. Een plek waar ze ontspannen, elkaar ontmoeten en eventje genieten van een schermvrij moment doorheen het museum.
 
 **Pijnpunten**
+Hoewel deze fase de 'sleur' van het museum doorbreekt voelt het aan alsof je hier zo snel mogelijk weg wil en de rest van het museum ontdekken. Een cinemazaal in een al reeds vrij interactief museum is niet nodig.
 
+### Fase 5: tweede verdieping
+De volgende verdieping toont het leven van Hergé als succesvol striptekenaar en de gevolgen ervan. Zijn reizen en dromen worden uit de doeken gedaan, de studio van Hergé wordt blootgelegd en Kuifje komt volop aan bod.
 
-<h3>Fase 5:</h3>
-De vier robotica ruimtes: algemeen gekende robotica (huishoudelijk, speelgoed en elektronica), industrieel, speelgoed en ontspanning en medisch.
+**Gedachten**
+De bezoeker wordt meegezogen in het verhaal. Het verhaal van Hergé is adenbenemend gebracht en het museum brengt het visueel heel goed.
 
-<b>Gedachten</b>
-Je weet niet goed waar te beginnen en je bent pas echt mee in het verhaal na het bezoeken van 2 ruimtes.
+**Acties/taken**
+Net zoals in de andere zalen wordt de informatie hier voornamelijk gebracht door de iPod. Hierop zijn filmpjes, leestekst, audio en foto's te zien.
+
+**Instellingen en emoties**
+Alles wordt heel mooi in beeld gebracht en in correcte balans tussen elektronische toepassingen en werkelijke stukken in het museum.
+
+**Opportuniteiten**
+De app kan ervoor zorgen dat er meer structuur is zodat de bezoeker de zalen in de juiste volgorde bezoekt en de informatie gestructureerd wordt weergegeven.
+
+**Pijnpunten**
+In dit deel van het museum is het mogelijk om de zalen niet in een goede volgorde te volgen. Dit kan ervoor zorgen dat de bezoeker zijn interesse in het verhaal verliest.
+
+### Fase 6: Restaurant - Atrium
+Het einde van het museum bezoek betekent dat je weer op de gelijkvloers aankomt. Hier heb je de kans om iets te drinken of te eten in het restaurant, naar het toilet te gaan of naar de shop te gaan.
+
+**Acties/taken**
+Je geeft de iPod en koptelefoon terug af bij de balie.
+
+**Gedachten**
+Een intense ervaring. Er is op korte tijd veel informatie opgenomen geweest, maar wel een interessante en aantrekkelijke manier gebracht.
+
+**Instellingen en emoties**
+Het museum deed er goed aan om het leven van Hergé zo duidelijk te verhalen. Je voelt je opgetogen door de inspirirende tentoostelling.
+
+**Opportuniteiten**
+De bezoeker wordt een beetje aan zichzelf overgelaten na het einde van het museum. De app zou opties kunnen aansporen door popups te sturen naar de devices van de gebruiker.
+
+**Pijnpunten**
+Je komt terug in de vrij lege en emotieloze ruimte van het begin.
+
+### Fase 7: shop
+De shop herbergt alles wat te maken heeft met Kuifje en Tintin: van strips tot T-shirts, koffiekoppen, beeldjes, onderleggers, ...
 
 <b>Acties/taken</b>
-Filmpjes (tablets), koptelefoons, kleine informatiebordjes in 3 talen (Nederlands, Frans en Engels).
+Niets aanraken.
+
+<b>Gedachten</b>
+Een typisch museumshop gevoel. Niets speciaal, uitgezonderd van de dure prijzen.
 
 <b>Instellingen en emoties</b>
-Je kan je alles goed inbeelden en inleven.
+Deze shop versterkt niet het gevoel dat bij Kuifje of Hergé fans zou moeten opgewekt worden. Zowel voor als na het museumbezoek wordt je niet echt opgewonden door de koopwaren.
 
 <b>Opportuniteiten</b>
-De app geeft meer verduidelijking over het thema van elke ruimte. Zodat de bezoeker die meer geïnteresseerd is bijvoorbeeld de medische aspecten van robotica zich meteen naar deze ruimte kan begeven.
-Bij een druk museumbezoek biedt de app je duidelijkheid over elk object zonder dat je de andere mensen belemmerd.
+...
 
 <b>Pijnpunten</b>
-Heel kleine informatiebordjes waardoor er mogelijks file ontstaat.
-Onduidelijkheid over de verschillende ruimtes.
+Er staan enkele dure en unieke stukken in de museumshop. Dit fleurt de shop wat op maar zullen ook alleen aangekocht worden door echte fans. De shop bevat verder veel prullaria.
 
-<h3>Fase 6:</h3>
-Einde van het museumbezoek waarbij je nog enkele andere ruimtes passeert over andere onderwerpen.
+## Journey Map 1: visualisatie (Timothy D'hoe)
+---------
 
-<b>Acties/taken</b>
-De laatste acties zijn onduidelijk en komen overbodig over.
-
-<b>Gedachten</b>
-Hebben we alles gezien of missen we nog iets?
-
-<b>Instellingen en emoties</b>
-Verbaasd van hetgeen dat we gezien hebben. Je gevoel wordt niet versterkt.
-
-<b>Opportuniteiten</b>
-Door het herbekijken van de quotes die je aan het begin van het museumbezoek te zien kreeg, kan je ervaring blijven nazinderen en creëer je een ‘eindgevoel’.
-
-<b>Pijnpunten</b>
-Je hebt geen ‘eindegevoel’.
-
-------------------------
-<h2>Beleving 2:</h2>
-
-<h3>Fase 1:</h3>
-Wanneer je de inkomhal binnenkomt zie je het thema van de Robotica overal. Het gestreepte design is overal te zien.
-
-<b>Acties/taken</b>
-Aan de pijltjes die branden naar rechts kun je meteen uitmaken dat je die weg moet volgen om verder in hun museum te geraken.
-
-<b>Gedachten</b>
-Die strepen gaan toch niet in elke kamer te zien zijn, toch?
-
-<b>Instelling en emoties</b>
-Ik ben niet zo een grote fan van automatisering en robots, maar ergens ben ik toch wel benieuwd wat ik hier allemaal te zien zal krijgen.
-
-<b>Opportuniteiten</b>
-Interesse aanwakkeren voor robotica door de positieve en interactieve zaken in het museum voor te stellen. Dit door te melden dat er een handige app is die je door je museumbezoek kan begeleiden. Wel zeker bij vermelden dat de app er niet is om je ervaring af te pakken en je ervan af te leiden.
-
-<b>Pijnpunten</b>
-Loopt liever in het museum rond zonder extra’s.
-
-<h3>Fase 2:</h3>
-Aan de balie.
-
-<b>Acties/taken</b>
-Tickets bestellen.
-
-<b>Gedachten</b>
-Ik neem aan dat die kamer rechts van ons de eerste expositieruimte is?
-
-<b>Instelling en emoties</b>
-Op zoek naar een plannetje. Je krijgt immers niet zoveel info eens je je ticket hebt.
-
-<b>Opportuniteiten</b>
-Hier komt de kaart op onze app van pas. Je kan je avontuur doorheen het museum zelf uitstippelen.
-
-<b>Pijnpunten</b>
-Je zou ook zelf op zoektocht kunnen gaan.
-
-<h3>Fase 3:</h3>
-Binnenkomen in de eerste kamer.
-
-<b>Acties/taken</b>
-Zoeken naar de link met robotica.
-
-<b>Gedachten</b>
-Deze kamer is wel heel ouderwets voor een thema als robotica. Zit ik hier wel in de correcte ruimte?
-
-<b>Instelling en emoties</b>
-Deze kamer heeft momenteel niet veel te maken met robotica en zal waarschijnlijk een deel zijn van een andere expositie.
-
-<b>Opportuniteiten</b>
-Iets meer uitleg bieden over wat deze kamer voorstelt tussen al de rest.
-
-<b>Pijnpunten</b>
-De verwachtingen van het museum worden nog onduidelijker.
-
-<h3>Fase 4:</h3>
-Binnenkomen in de eerste robotica kamer/ruimte/gang.
-
-<b>Acties/taken</b>
-Het lezen van de quotes.
-
-<b>Gedachten</b>
-Er zitten wel een aantal humoristische quotes bij die ik wil bijhouden.
-
-<b>Instelling en emoties</b>
-Foto’s nemen of opschrijven van de quotes die ik wil bijhouden.
-
-<b>Opportuniteiten</b>
-Hier komt de ‘belevingslijst’ van pas. Hierin kun je teksten, namen, etc vastleggen voor later.
-
-<b>Pijnpunten</b>
-Mensen nemen al graag eens een camera mee naar een museum. Soms liever dan hun smartphone.
-
-<h3>Fase 5:</h3>
-De vier robotica ruimtes: algemeen gekende robotica (huishoudelijk, speelgoed en elektronica), industrieel, speelgoed en ontspanning en medisch
-
-<b>Acties/taken</b>
-Bekijken van filmpjes op tablets, robots in actie bekijken, af en toe een interactie om het beeld zelf op gang te krijgen.
-
-<b>Gedachten</b>
-Waar maken ze tegenwoordig allemaal robots voor?! Zou ik van deze robot een foto kunnen nemen om later nog eens aan iemand te tonen?
-
-<b>Instelling en emoties</b>
-Foto’s vastleggen voor later.
-
-<b>Opportuniteiten</b>
-Hier komt de ‘belevingslijst’ van pas. Hierin kun je teksten, namen, etc vastleggen voor later.
-
-<b>Pijnpunten</b>
-Mensen nemen al graag eens een camera mee naar een museum. Soms liever dan hun smartphone.
-
-<h3>Fase 6:</h3>
-Einde van het museumbezoek waarbij je nog enkele andere ruimtes passeert over andere onderwerpen.
-
-<b>Acties/taken</b>
-Niet echt duidelijk of je nu moet terugkeren of hierdoor moet voor een volgend stuk. Wat komt er nu nog?
-
-<b>Gedachten</b>
-Plots zijn we weer in het ouderwetse gedeelte beland.
-
-<b>Instelling en emoties</b>
-Is dit het einde? Heb ik alles gezien? Heb ik iets gemist?
-
-<b>Opportuniteiten</b>
-Een melding over het einde van de expositie en een herinnering over de ‘belevingslijst’.
-
-<b>Pijnpunten</b>
-Geen eindgevoel.
+<img src="{{ '/assets/img/journeymap_timo.png' | relative_url }}" title="Persona Sheet">

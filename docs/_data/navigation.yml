@@ -91,11 +91,17 @@
           title: Kleuren
           permalink: design/ui-style-guide/kleuren/
         -
+          title: Afbeeldingen
+          permalink: design/ui-style-guide/afbeeldingen/
+        -
           title: Knoppen
           permalink: design/ui-style-guide/knoppen/
         -
           title: Formulieren
           permalink: design/ui-style-guide/formulieren/
+    -
+      title: Promotie Filmpje
+      permalink: design/promotie-filmpje/
 # -
 #   title: Develop
 #   # permalink: develop/
@@ -109,11 +115,13 @@
       # permalink: deliver/timesheets/
       children:
         -
-          title: Student 1
+          title: Timothy D'hoe
           permalink: deliver/timesheets/student-1/
         -
-          title: Student 2
+          title: Mats Stuckens
           permalink: deliver/timesheets/student-2/
 # -
 #   title: Deploy
 #   # permalink: deploy/
+
+

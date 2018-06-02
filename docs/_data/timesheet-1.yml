@@ -1,28 +1,121 @@
-# ╔═══════════╗
-# ║ Student 1 ║
-# ╚═══════════╝
+# ╔═══════════════╗
+# ║ Timothy D'hoe ║
+# ╚═══════════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 1.25
+  task: Zoeken naar interessante en unieke musea in België.
 -
   time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  task: Onderzoek Smartwatch in Fnac Brugge.
+-
+  time: 0.75
+  task: Planning regelen met teamgenoot. (Define)
 -
   time: 1
-  task: Lorem ipsum sit dolor amet.
+  task: Internetzoektocht voor ideeën app en smartwatchtoepassingen
+-
+  time: 4.25
+  task: Bezoek Musée Hergé in Louvain-la-Neuve + interviews. (zonder reistijd)
+-
+  time: 0.5
+  task: Briefing parafraseren en neerschrijven. (Discover)
 -
   time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  task: Opzoekwerk en extra studie Markdown Language.
+-
+  time: 3.75
+  task: Uitschrijven interviews + conclusie formuleren (Analyse)
+-
+  time: 6
+  task: Totaal opzoekwerk technische analyse (iWatch, iPhone, Beacons, NFC)
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: Voorbereiding elevator pitch
+-
+  time: 4.5
+  task: Verdere uitwerking en uitschrijven van analyse
+-
+  time: 1.5
+  task: Uitwerking Usefullness, Usability, Desirability en Credibility (Analyse)
+-
+  time: 4.75
+  task: Ontwikkelen persona sheets + use case
+-
+  time: 6.25
+  task: Uitschrijven Journey Map + infographic
+-
+  time: 5.25
+  task: Volledige uitwerking define concept
+-
+  time: 3.5
+  task: Opzoekwerk en selecteren van inspiratie (ideaboard)
+-
+  time: 1.5
+  task: Ontwikkelen eerste Style tiles
+-
+  time: 4.75
+  task: Herlezen en aanpassen "Briefing" en "Define"
 -
   time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  task: Scss voor opmaak van het productiedossier
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 1.5
+  task: Ontwikkelen logo voor app
+-
+  time: Sitemaps ontwikkelen
+  task: 3.75
+-
+  time: 3.5
+  task: Smartwatch Wireflow
+-
+  time: 4.5
+  task: Prototype Smartwatch
+-
+  time: 4.5
+  task: Smartwatch gebruikerstests + uitschrijven
+-
+  time: 3
+  task: Smartwatch app aanpassen adhv feedback gebruikerstest
+-
+  time: 5.5
+  task: Smartwatch Screen Designs
+-
+  time: 2.5
+  task: Uitleg interconnectiviteit Sitemaps
+-
+  time: 5.25
+  task: Papier wireframe Smartphone app
+-
+  time: 2.75
+  task: gebruikerstest digitale wireframe
+-
+  time: 5.75
+  task: Wireframe Smartphone in XD
+-
+  time: 4.5
+  task: Wireflow Smartphone app
+-
+  time: 5
+  task: Screen Design Smartphone app in XD
+-
+  time: 2.5
+  task: Digtaal prototype Smartphone app in XD
+-
+  time: 6
+  task: Ontwikkelen promotiefilmpje + muziek voor de app
+-
+  time: 2.75
+  task: Ontwikkelen wireframes Website
+-
+  time: 3
+  task: Visuals Website
+-
+  time: 2.25
+  task: Digitaal prototype Website
+-
+  time: 3.25
+  task: UI Style guide
+-
+  time: 3.5
+  task: Voorbereiding Powerpoint Jury
