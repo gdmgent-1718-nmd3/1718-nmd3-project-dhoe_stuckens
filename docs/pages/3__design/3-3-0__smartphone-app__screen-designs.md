@@ -6,6 +6,7 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+### [Prototype Smartphone](https://xd.adobe.com/view/bef178c6-0d48-41e2-58a3-26d22fc4c9d5-c8c0/ "Prototype Smartphone"){:target="_blank"}
 
 ### 0.0 Index
 ----------

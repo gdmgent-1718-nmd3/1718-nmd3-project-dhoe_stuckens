@@ -7,6 +7,5 @@ published: true
 title: Kleuren
 ---
 
-# Kleuren
-
+<img src="{{ '/assets/img/UI/UI_guide_kleur.png' | relative_url }}" title="UI Style Guide voor kleuren">
 

@@ -15,7 +15,6 @@ Verder zijn Apple producten zeer betrouwbaar en dankbaar om een app voor te ontw
 ### Kenmerken
 ---------
 
-
 - **Lightweight Interactions**
 - **Hollistic Design**
 - **Personal Communication**
@@ -91,8 +90,8 @@ _Series 3_
 - 75 MB for photos
 
 #### Display sizes
-- 38mm: 340x272 pixels
-- 42mm: 390x312 pixels
+- 38mm: 340 &times; 272 px
+- 42mm: 390 &times; 312 px
 <br>
 
 ### Systeembekwaamheid
@@ -368,7 +367,7 @@ Wij belichten hier de specificaties van de **Iphone8 plus**.
 ### Afmetingen
 ---------
 <br>
-2880 x 1440px
+2880 &times; 1440 px
 Beeldschermdiagonaal 5.7 inch
 grootte schermen
 

@@ -7,6 +7,5 @@ published: true
 title: Typografie
 ---
 
-# Formulieren
-
+<img src="{{ '/assets/img/UI/UI_guide_forms.png' | relative_url }}" title="UI Style Guide voor formulieren">
 

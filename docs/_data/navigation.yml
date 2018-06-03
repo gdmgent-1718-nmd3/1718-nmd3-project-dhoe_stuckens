@@ -59,6 +59,9 @@
       permalink: design/smartphone-app/
       children:
         -
+          title: Sitemap
+          permalink: design/smartphone-app/sitemap/
+        -
           title: Wireflow
           permalink: design/smartphone-app/wireflow/
         -

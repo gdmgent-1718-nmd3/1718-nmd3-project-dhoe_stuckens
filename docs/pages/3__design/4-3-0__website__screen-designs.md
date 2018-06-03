@@ -6,6 +6,8 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+### [Prototype Desktop](https://xd.adobe.com/view/8c4023f6-1b9f-48f3-6d00-a909f4c61f17-fa71/ "Prototype Smartphone"){:target="_blank"}
+
 ### 0.0 Index
 ----------
 <img src="{{ '/assets/img/visuals_web/index.png' | relative_url }}" title="0.0 Index">

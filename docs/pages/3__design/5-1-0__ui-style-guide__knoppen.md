@@ -7,6 +7,5 @@ published: true
 title: Knoppen
 ---
 
-# Knoppen
-
+<img src="{{ '/assets/img/UI/UI_guide_buttons.png' | relative_url }}" title="UI Style Guide voor knoppen">
 
