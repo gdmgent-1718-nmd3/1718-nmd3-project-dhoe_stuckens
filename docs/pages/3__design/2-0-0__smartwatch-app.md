@@ -6,7 +6,7 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
-<img src="{{ '/assets/img/SitemapWatch.png' | relative_url }}" title="Sitemap voor de iWatch">
+<img src="{{ '/assets/img/SitemapWatch.png' | relative_url }}" title="Sitemap voor de Apple Watch">
 
 ### Legende van interconnectiviteit tussen smartwatch app en smartphone app
 

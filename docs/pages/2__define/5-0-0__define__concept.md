@@ -46,6 +46,6 @@ Bovenop, om de museumervaring te vergroten bij kinderen, worden er doorheen het 
 
 #### Smartwatch toepassingen
 
-- De smartwatch kan bij het bezoek gebruikt worden als stappenteller en hartslagmeter. Daar zorgend de accelerometer en gyroscope in de Iwatch voor.)
+- De smartwatch kan bij het bezoek gebruikt worden als stappenteller en hartslagmeter. Daar zorgend de accelerometer en gyroscope in de Apple watch voor.)
 - De hartslagmeter wordt gebruikt om je gemoed doorheen het museum te bepalen. Een hogere hartslag betekent opwinding of enthousiasme. Deze informatie wordt opgeslaan op je smartphone. Bij de voorwerpen in het museum waar de gebruiker zijn hartslag omhoog gaat krijgt hij een notificatie om extra informatie te downloaden.
 - De achtergrond van de smartwatch verandert met de verschillende zalen in het museum. De gebruiker zijn locatie wordt bepaald met BLE transmitters (zie gebruikte techologieën).

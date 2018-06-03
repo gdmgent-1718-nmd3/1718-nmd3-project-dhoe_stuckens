@@ -28,7 +28,7 @@
   task: Uitschrijven interviews + conclusie formuleren (Analyse)
 -
   time: 6
-  task: Totaal opzoekwerk technische analyse (iWatch, iPhone, Beacons, NFC)
+  task: Totaal opzoekwerk technische analyse (Apple Watch, iPhone, Beacons, NFC)
 -
   time: 1.5
   task: Voorbereiding elevator pitch
@@ -101,6 +101,9 @@
 -
   time: 2.5
   task: Digtaal prototype Smartphone app in XD
+-
+  time: 3.25
+  task: Testen/aanpassen van digitale prototypes
 -
   time: 6
   task: Ontwikkelen promotiefilmpje + muziek voor de app

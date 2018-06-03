@@ -38,22 +38,22 @@ Dan zouden de correcte geluidsfragmenten moeten verschijnen
 
 {:.mono}
 Als ik als bezoeker van het museum een vitrine met NFC-tag nader
-Stel ik ben ik bezit van een iPhone en iWatch
-En mijn iWatch geeft een signaal dat er een geluidsfragment te beluisteren valt
+Stel ik ben ik bezit van een iPhone en Apple Watch
+En mijn Apple Watch geeft een signaal dat er een geluidsfragment te beluisteren valt
 Als ik dan op de knop 'Beluisteren' druk
 Dan zou het geluidsfragment in mijn koptelefoon of earplugs moeten afspelen
 
 {:.mono}
 Als ik als bezoeker van het museum een vitrine met NFC-tag nader
-Stel ik ben ik bezit van een iPhone en iWatch
-En mijn iWatch geeft een signaal dat er een filmfragment te bekijken is
+Stel ik ben ik bezit van een iPhone en Apple Watch
+En mijn Apple Watch geeft een signaal dat er een filmfragment te bekijken is
 Als ik dan op de knop 'Bekijken' druk
-Dan zou mijn iWatch de notificatie geven: 'het filmfragment is te bekijken op uw iPhone'.
+Dan zou mijn Apple Watch de notificatie geven: 'het filmfragment is te bekijken op uw iPhone'.
 
 {:.mono}
 Als ik als bezoeker van het museum een vitrine met NFC-tag nader
-Stel ik ben ik bezit van een iPhone en iWatch
-En mijn iWatch geeft een signaal dat er een filmfragment te bekijken is
+Stel ik ben ik bezit van een iPhone en Apple Watch
+En mijn Apple Watch geeft een signaal dat er een filmfragment te bekijken is
 Als ik dan op de knop 'Opslaan' druk
 Dan zou ik de boodschap 'het fragment is opgeslaan" krijgen.
 
@@ -68,7 +68,7 @@ Dan zou ik de boodschap 'Het wachtwoord dat je ingegeven hebt is verkeerd' krijg
 {:.mono}
 Als ik als bezoeker van het museum een vitrine met NFC-tag nader
 Stel er is al reeds commentaar achtergelaten door vorige bezoekers aan die vitrine.
-En de iWatch en iPhone geven een notificatie om die commentaren te lezen
+En de Apple Watch en iPhone geven een notificatie om die commentaren te lezen
 Als ik dan op de knop 'Bekijken' druk
 Dan zou ik naar de app-pagina gaan met achtergelaten commentaren voor deze vitrine.
 
@@ -250,5 +250,3 @@ Na door een wenteltrap naar beneden te gaan kom je terug op het gelijkvloers. Wa
  
 **Fase 7: shop** 
 Wanneer je je naar de uitgang begeeft kan je eerst nog langs het winkeltje dat zich links van de uitgang bevindt voor je door de deuren naar buiten gaat. Het is een zeer aangename en ordelijke winkel waar alles mooi staat open gesteld voor de klant. Je kan er alles vinden van strips tot kleren en de typische figuurtjes van de Kuifje strips. Je mag de meeste dingen niet aanraken omdat deze zeer kostbaar zijn. Vooral het miniatuur vliegtuit van Brussels Airlines is zeer adembenemend. Je kan zeker in dit winkeltje iets leuks vinden voor de Kuifjes fan of voor je kinderen.
-
-<img src="{{ '/assets/img/journeymap_timo.png' | relative_url }}" title="Persona Sheet">

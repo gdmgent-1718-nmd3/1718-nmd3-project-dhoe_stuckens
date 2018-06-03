@@ -7,10 +7,10 @@ published: true
 title: Technische Analyse
 ---
 <br>
-Wij kiezen voor dit project voor de Apple producten: iWatch en Iphone. Deze producten zijn wijdverspreid en hebben door ApplePay een extra troef die we kunnen integreren.  
+Wij kiezen voor dit project voor de Apple producten: Apple Watch en Iphone. Deze producten zijn wijdverspreid en hebben door ApplePay een extra troef die we kunnen integreren.  
 Verder zijn Apple producten zeer betrouwbaar en dankbaar om een app voor te ontwikkelen.
 
-## [Smartwatch: iWatch](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/ "iWatch OS Design Sheets"){:target="_blank"}
+## [Smartwatch: Apple Watch](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/ "Apple Watch OS Design Sheets"){:target="_blank"}
 <br>
 ### Kenmerken
 ---------
@@ -119,7 +119,7 @@ Notificaties op een Apple watch communiceert met de gebruiker door snelle intera
 Short looks verschijnen heel kort op het scherm, dit geeft de gebruiker genoeg tijd om te zien welke notificatie hij heeft ontvangen en welke app deze verstuurd heeft.<br>De ruimte beschikbaar voor titels is vrij beperkt dus houdt ze kort en makkelijk verstaanbaar. Extra informatie kan in de body van de notificatie worden geplaatst.<br>Privacy is een belangrijk gegeven bij Short Looks. Ze zijn dan ook bedoeld om discreet basisinformatie over de notificatie weer te geven. De developer moet dus rekening houden dat er geen gevoelige informatie in de titel kan sluipen.
 
 - **Long Look**
-Long Looks geven meer informatie over de notificatie. Deze Long look wordt geactiveerd wanneer de gebruiker van de iWatch zijn pols omhoog houdt of wanneer de gebruiker het touchscreen gebruikt om de Short Look te activeren.<br>Bij het neerlaten van de arm wordt de Long Look onmiddellijk gedeactiveerd.<br>Een Long Look komt in twee versies: een statische en een dynamische.<br>De statische interface geeft naast het notificatiebericht ook text en beeld weer. Terwijl de dynamisch interface, en zijn naam doet het al vermoeden, de gebruiker toegang geeft tot de volledige inhoud van het bericht en zelf opties kan bieden om een bericht te beantwoorden of de look aan te passen.
+Long Looks geven meer informatie over de notificatie. Deze Long look wordt geactiveerd wanneer de gebruiker van de Apple Watch zijn pols omhoog houdt of wanneer de gebruiker het touchscreen gebruikt om de Short Look te activeren.<br>Bij het neerlaten van de arm wordt de Long Look onmiddellijk gedeactiveerd.<br>Een Long Look komt in twee versies: een statische en een dynamische.<br>De statische interface geeft naast het notificatiebericht ook text en beeld weer. Terwijl de dynamisch interface, en zijn naam doet het al vermoeden, de gebruiker toegang geeft tot de volledige inhoud van het bericht en zelf opties kan bieden om een bericht te beantwoorden of de look aan te passen.
 
 Het gebied van zowel de statische en dynamische Long Look is volledig aanpasbaar, houd hierbij wel rekening dat de structuur van de interface niet aangepast kan worden. Bovenaan bevindt zich de sash, app icoon en naam. De kleur en uitzicht van de sash kan worden aangepast. Custom Knoppen, maximaal vier, voor op maat gemaakte acties komen onder het content gebied. Onder de eigen ontworpen knoppen plaats het OS altijd een _'Dismiss'_ knop.
 

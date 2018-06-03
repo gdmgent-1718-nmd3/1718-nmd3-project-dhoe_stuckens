@@ -21,7 +21,7 @@ De gegevens bij het profiel zijn niet aanpasbaar in de mobiele app. Onze gebruik
 
 ## Events
 -----------------
-Onze gebruiker vraagt zich af wat zij moet doen als er geen Apple Pay geïnstalleerd is. Dit is een interessante opmerking en wij zullen dit probleem verder onderzoeken. Waarschijnlijk zullen wij de gebruiker op de manier met kaart en card reader laten betalen. Dit is evenwel niet bruikbaar bij iWatch omdat je niet kan typen op het device.
+Onze gebruiker vraagt zich af wat zij moet doen als er geen Apple Pay geïnstalleerd is. Dit is een interessante opmerking en wij zullen dit probleem verder onderzoeken. Waarschijnlijk zullen wij de gebruiker op de manier met kaart en card reader laten betalen. Dit is evenwel niet bruikbaar bij Apple Watch omdat je niet kan typen op het device.
 
 Onze gebruiker vind het idee van dubbel klikken om de betaling af te ronden goed en stelt voor om het op nog plaatsen te gebruiken om meer variatie te creeëren in de app.
 

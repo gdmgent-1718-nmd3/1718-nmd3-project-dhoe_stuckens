@@ -20,3 +20,8 @@ Mats Stuckens
 ## Gekozen museum
 ---------  
 Musée Hergé
+
+## Prototypes
+---------  
+[Prototype Smartphone](https://xd.adobe.com/view/bef178c6-0d48-41e2-58a3-26d22fc4c9d5-c8c0/ "Prototype Smartphone"){:target="_blank"}  
+[Prototype Desktop](https://xd.adobe.com/view/8c4023f6-1b9f-48f3-6d00-a909f4c61f17-fa71/ "Prototype Smartphone"){:target="_blank"}
