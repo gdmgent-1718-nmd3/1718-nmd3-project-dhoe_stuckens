@@ -3,26 +3,62 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 1.25
+  task: Zoeken naar interessante en unieke musea in België
 -
   time: 1
-  task: Lorem ipsum sit dolor amet.
+  task: Planning regelen met teamgenoot. (Define)
+-
+  time: 2
+  task: Internetzoektocht voor ideeën app en smartwatchtoepassingen
+-
+  time: 4.25
+  task: Bezoek Muséé Hergé in Louvain-la-Neuve + interviews. (zonder reistijd)
+-
+  time: 2.5
+  task: Opzoekwerk en selecteren van inspiratie (ideaboard)
+-
+  time: 3
+  task: Voorbereiding elevator pitch.
+-
+  time: 2.75
+  task: Ontwikkelen persona sheets
+-
+  time: 3.5
+  task: Uitschrijven Journey Map + infographic
+-
+  time: 6
+  task: Ontwikkelen eerste Style Tiles
+-
+  time: 6.75
+  task: Ontwikkelen definitieve Style Tiles
 -
   time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  task: Ontwikkelen logo voor app/watch/web
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 4.25
+  task: Sitemap
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 5.5
+  task: Wireflow
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 0.5
+  task: Papieren wireframe smartphone app
+-
+  time: 2.5
+  task: Wireframes app
+-
+  time: 7
+  task: Wireframes desktop
+-
+  time: 8
+  task: Visuals App
+-
+  time: 6.5
+  task: Visuals desktop
+-
+  time: 6.25
+  task: UI Style Guide
+-
+  time: 3.5
+  task: Voorbereiding Jury
